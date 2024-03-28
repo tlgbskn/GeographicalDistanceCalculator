@@ -9,3 +9,5 @@ c = bu değer "a" ara değedinden elde edilen trigonometrik bir değerdir.
 Radyan = derece * pi/180 şeklinde formülize edilir. Python kütüphanesinde "radyans" fornkisyonu derece olarak verilen değeri radyan cinsine çevirir.
 
 
+![haversine1](https://github.com/tlgbskn/GeographicalDistanceCalculator/assets/47304774/65933564-1aed-4958-906a-cc820efbfb12)
+![haversine2](https://github.com/tlgbskn/GeographicalDistanceCalculator/assets/47304774/9eab58e7-1463-4fa9-9b29-69ca1ddacfe2)
